@@ -1,0 +1,10 @@
+depth画像のエラー値を補完するプログラムです。
+
+
+#operation
+	python3 fill_pytorch.py < depthFile >
+
+#output
+	result.png
+
+
